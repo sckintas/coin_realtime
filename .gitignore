@@ -1,0 +1,18 @@
+# Local Terraform state
+*.tfstate
+*.tfstate.backup
+
+# Crash logs
+crash.log
+
+# Terraform plan output files
+*.tfplan
+
+# Lock file
+.terraform.lock.hcl
+
+# Terraform directories
+.terraform/
+credentials.json
+credentials.json
+credentials.json
